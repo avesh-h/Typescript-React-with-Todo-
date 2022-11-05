@@ -1,0 +1,10 @@
+.todo{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 1px solid #ccc;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: azure;
+}
